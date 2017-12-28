@@ -1,6 +1,5 @@
-![Logo](logo.png)
-
-# botbuilder-slack-extension [![npm version](https://badge.fury.io/js/botbuilder-slack-extension.svg)](https://badge.fury.io/js/botbuilder-slack-extension) [![CircleCI](https://circleci.com/gh/suttna/botbuilder-slack-extension.svg?style=svg)](https://circleci.com/gh/suttna/botbuilder-slack-extension)
+# botbuilder-slack-extension
+[![Build Status](https://travis-ci.org/AtoriAI/botbuilder-slack-extension.svg?branch=master)](https://travis-ci.org/AtoriAI/botbuilder-slack-extension)
 
 Slack extension for Microsoft BotBuilder.
 
